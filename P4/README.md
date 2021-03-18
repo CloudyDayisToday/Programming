@@ -1,3 +1,3 @@
 #Tri-diagonal Solver#
 
-This will solve a triadiagonal matrix.
+This can help you to solve a triadiagonal matrix.
