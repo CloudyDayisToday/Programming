@@ -1,3 +1,3 @@
 # Programming
 
-This repository contains all my projects in University of Southampton related to programming (C, C++, qt5).
+This repository contains all my projects in University of Southampton related to programming (C++/qt5).
